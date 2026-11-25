@@ -9,7 +9,7 @@
   <description>TIES-4520 Task 6: Java web frontend and RDF-driven cottage booking suggestions</description>
   <properties>
   	<maven.compiler.release>25</maven.compiler.release>
-	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
   <!-- Jena: RDF model, Turtle/RDF-XML parsing and SPARQL -->
